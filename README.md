@@ -198,11 +198,12 @@ This project helped me gain hands-on experience in:
 ```text
 Heart-Stroke-Prediction/
 │
-├── dataset/
-├── notebooks/
-├── model/
+├── dataset/ heart.csv
+├── notebooks/ Heart_stroke.ipynb
+├── model/ Log_Reg_heart.pkl
 ├── app.py
-├── requirements.txt
+├── scaler/ scaler.pkl
+├── columns name/ columns.pkl
 ├── README.md
 └── assets/
 ```
